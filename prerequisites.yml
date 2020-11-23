@@ -7,4 +7,4 @@
       name:
       - vim
       - git
-      state: present
+      state: present 
